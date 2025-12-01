@@ -1,4 +1,5 @@
 Customer Shopping Behavior – Data Analytics Project
+
 📌 Overview
 
 This project focuses on analyzing customer shopping behavior using a complete end-to-end data analytics workflow.
@@ -9,22 +10,14 @@ The goal is to understand customer spending patterns, product performance, disco
 📂 Dataset
 
 File Name: customer_shopping_behavior.csv
-
 Rows: (add count)
-
 Columns: (add count)
-
 Data Includes:
-
-Customer demographics (age group, gender, previous purchases)
-
-Purchase details (item purchased, category, amount, review rating)
-
-Discount usage
-
-Shipping type
-
-Subscription status
+   Customer demographics (age group, gender, previous purchases)
+   Purchase details (item purchased, category, amount, review rating)
+   Discount usage
+   Shipping type
+   Subscription status
 
 This dataset is used to uncover behavioral patterns and assist decision-making for marketing and sales teams.
 
@@ -171,8 +164,4 @@ Refresh data if needed
 
 If you have any questions or would like to discuss this project, feel free to reach out.
 
-If you want, I can also create:
-✅ GitHub description
-✅ A project summary for your resume
-✅ A shorter README version
-Just tell me!
+
