@@ -142,33 +142,6 @@ Customer_shopping_behaviour(Visualization and dashboard).pbix
 
   Certain age groups show clear preference for high-value items
 
-▶️ How to Run This Project
-1. Clone the Repository
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
-
-2. Install Required Python Libraries
-pip install pandas numpy matplotlib seaborn psycopg2
-
-3. Run Jupyter Notebook
-
-Open the data cleaning & EDA notebook:
-
-jupyter notebook
-
-4. Set Up PostgreSQL Database
-
-Create a new database
-
-Import cleaned CSV file
-
-Run SQL queries from:
-Customer_shopping_behavior(Data Analysis).sql
-
-5. Open the Dashboard
-
-Open .pbix file in Power BI Desktop
-
-Refresh data if needed
 
 📧 Contact
 
