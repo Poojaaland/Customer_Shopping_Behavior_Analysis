@@ -145,6 +145,11 @@ Customer_shopping_behaviour(Visualization and dashboard).pbix
 
 📧 Contact
 
-If you have any questions or would like to discuss this project, feel free to reach out.
+If you have any questions or would like to discuss this project, feel free to reach out. 
+
+
+Project Screenshort:
+
+
 
 
